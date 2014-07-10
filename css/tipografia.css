@@ -1,0 +1,58 @@
+body { font-family: Trebuchet MS, Helvetica, sans-serif !important; font-size: 0.9em; line-height:1.35; }
+span.nombre { display: none; }
+small { font-size: 0.8em; }
+strong { font-weight: bold; }
+ul li { font-style: italic; }
+h1 { font-size: 4em; font-weight: bold; }
+h3, h2 { font-style: italic; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.2em; }
+#sidebar h2 { font-size: 1em !important; }
+.entry h3 { font-weight: 700; }
+
+/* PORTADA */
+#portada .dcha .descripcion h2, #portada .dcha .descripcion h3, #portada .dcha .descripcion p { text-align: left; }
+#portada h3 { font-size: 120%; }
+
+/* NOTAS */
+#nota h4 { font-size: 1.9em; text-align: center; }
+
+/* HEADER */
+#descriptivo dt { font-weight: bold; }
+#descriptivo small { font-style: italic; }
+
+/* IDIOMAS */
+.idioma li a:hover, #creditos a:hover { text-decoration: underline; }
+
+/* LETRERO*/
+#letrerospie .letrero h3 p { text-align: left; }
+.letrero h3 p { text-align: left; }
+
+/* SIDEBAR */
+ul#frases li { font-size: 1.3em; }
+
+/* OBRAS */
+#obras .descripcion2 h3 { font-size: 1.3em; font-weight: bold; }
+
+/* SLIDERS */
+.slider a span.titulo-desc { font-size: 4.1em; }
+.slider a span.titulo-desc2 p { font-size: 1.9em; text-align: left; letter-spacing: 0; }
+.slider a span { font-weight: lighter; letter-spacing: -1px; }
+
+/* MENU */
+.menu-servicios-container .menu li { font-size: 1.1em; }
+.menu_principal ul li a { font-size: 1.7em; }
+.menu-footer li a { font-size: 83%; }
+
+/* Google Web Fonts */
+.menu_principal ul li, h1, h2, h3, h4, h5, h6, .slider a span.titulo-desc { font-family: 'Galdeano', sans-serif; }
+
+/* CONTENT */
+#content .wrap h2 { font-size: 1.7em; letter-spacing: -1px; font-style: italic; }
+
+/* CUSTOM FIELDS */
+#custom-fields small { font-size: 0.8em; }
+#custom-fields small strong { font-weight: bold; }
+
+/* FORM CONTACTO */
+.wpcf7 textarea, .wpcf7 input { font-family: inherit; font-size: 1em; }

@@ -1,0 +1,177 @@
+a, a:visited { color: #89a3cf; }
+a:hover, li a:hover, h3 a:hover {}
+body { }
+#custom-fields {}
+p, li { color: #744738; }
+h3, h2 { color: #744738; }
+#portada h3 { color: #991426; }
+#portada h2 {}
+h1 {}
+.page-id-9 .wrap h2 { color: black; }
+.page-id-9 .columna-izda { color: #888; }
+
+/* HEADER */
+#descriptivo h2, #descriptivo p, #descriptivo dt { color: white; }
+#descriptivo dl, #descriptivo small { color: white; }
+
+/* IDIOMAS */
+
+
+
+
+
+/* MENU PRINCIPAL */
+.menu_principal ul li a {}
+.menu_principal ul li a:hover { color: white; } 
+
+.menu_principal ul ul li a {  }
+.menu_principal ul ul li a:hover { }
+
+.menu_principal ul ul ul li a { background-color: #892280; color: white; }
+.menu_principal ul ul ul li a:hover { background-color: #7A1E71; }
+
+
+/* ENCABEZADO */
+span.descripcion-sitio { color: #6B5047; }
+
+
+/* MENU SECUNDARIO */
+.menu_secundario {}
+.menu_secundario ul li a {}
+.menu_secundario ul li a:hover {}
+
+#header .current-menu-item a, #header .current_page_item a, #header .current-menu-parent a { color: white; }
+#header .current-menu-item li li a, #header .current_page_item li li a, #header .current-menu-parent li li a, #header .current-menu-item li a, #header .current_page_item li a, #header .current-menu-parent li a, .menu_principal ul ul li a { background-color: #991426; color: #ccc; }
+#header .current-menu-item li a:hover, #header .current_page_item li a:hover, #header .current-menu-parent li a:hover, .menu_principal ul ul li a:hover { background-color: #BA5700; color: white; }
+#header .current-menu-item li li a:hover, #header .current_page_item li li a:hover, #header .current-menu-parent li li a:hover {} 
+body.search-results .entry li { background-color: white; }
+
+
+/* SLIDERS */
+#slider-container {}
+#slider-container img {}
+.slider a span {}
+.slider a span.titulo-desc, .slider a span.titulo-desc2 p { color: white; }
+/* .slider a span { background-color: black; zoom: 1; filter: alpha(opacity=50); opacity: 0.5; } */
+.slider a { color: #892280; }
+.slider a span p {}
+.slider a:hover { color: black; }
+.slider { background-color: #ccc; }
+
+/* SIDEBAR */
+#sidebar { background-color: #ABABAB; }
+#sidebar .menu a { color: #888; }
+#sidebar .menu a:hover { color: black; text-decoration: none; }
+#sidebar ul { color: #444; }
+#sidebar .current-menu-item a, #sidebar .current_page_item a, #sidebar .current-menu-parent a { color: white; }
+#sidebar h3 {}
+
+#sidebar .contactanos {}
+#sidebar .contactanos li a { color: white; background: url(../images/marcaagua.png) no-repeat -29px 0 #993399; }
+
+#sidebar .contactanos li a, #sidebar .linkagenda li a { border-bottom-right-radius: 15px; border-top-right-radius: 15px; width: 125px; }
+
+
+
+#sidebar .contactanos li a:hover { color: #F9F8E4; }
+
+#sidebar .linkagenda {}
+#sidebar .linkagenda li a { color: white; background: url(../images/marcaagua.png) no-repeat -29px 0 #993399; }
+#sidebar .linkagenda li a:hover { color: #F9F8E4; }
+
+
+#footer .current-menu-item a, #footer .current_page_item a, #footer .current-menu-parent a { color: white; }
+#footer a:hover, #sidebar a:hover { color: white; }
+
+
+
+/* MODULOS PIE */
+.acliente h3 span { color: #ccc; }
+
+
+
+/* OBRAS */
+#obras li.current-cat-parent a, #obras li.current-cat a { background-color: #043E59; }
+#obras .extras { background-color: white; }
+#obras .entrymenu ul li a { color: #f3f3f3; }
+#obras .navega { background-color: #fff; border: 1px solid #f3f3f3; }
+#menu-thumbs-obras a:hover { color: white; }
+.obra span.titulo-desc { background-color: black; }
+#obras .entrymenu { background-color: #999; }
+
+
+/* PORTADA */
+#portada a { color: #333; }
+#portada { background-color: #ccc; }
+#portada .dcha a { color: white; }
+#portada .dcha a img {}
+#portada .letrero { background-color: #892280; }
+#portada .dcha .video h3 { color: black; }
+#portada .dcha .descripcion h2, #portada .dcha .descripcion h3, #portada .dcha .descripcion p { color: black; }
+#portada .dcha { background-color: #BA5700; }
+#portada .dcha:hover { background-color: #A54D00; }
+#portada .dcha h2 { color: white; }
+
+#nota a { background-color: #991426; color: #ccc; }
+#nota a:hover { color: white; background-color: #77101E; text-decoration: underline; }
+
+
+/* CONTENT PAGINAS */
+#content {}
+#content .wrap  { background-color: #e9eef6; }
+#content .dcha a { color: white; }
+#letrerospie .letrero { background-color: #FFCC00; }
+.letrero h3 p { color: white; }
+
+/* CARRUSELES */
+#obras .jcarousel-skin-tango {}
+#obras .jcarousel-container li {}
+#obras .jcarousel-container li a {}
+#obras .jcarousel-container li a:hover {}
+
+.carruselhorizontal .jcarousel-skin-tango .jcarousel-container-horizontal {}
+.carruselhorizontal .jcarousel-container {}
+.carruselhorizontal .jcarousel-container li a:hover span { color: black; }
+
+
+/* SUBSIDIARY */
+.noticias .post {}
+.noticias .post a { color: #888; }
+.noticias .post a:hover { color: #993399; }
+.noticias .post a span { color: #ccc; }
+
+/* GALERIA */
+.galerias li a:hover { background-color: #402717 !important; }
+.gallery-item a { background-color: white; }
+.gallery-item a:hover { background-color: #422821; }
+
+
+/* ENTRADAS */
+.entry li a { color: #043E59; }
+.entry li {}
+.entry li li { color: #666; }
+.entry h3, .entry li { color: #043E59; }
+.content {}
+
+.post a, .post a:visited { color: #999; }
+.post a:hover { color: black; }
+
+/* FORM BUSCADOR */
+#buscador input#s { background-color: transparent; color: #444; }
+#buscador input#searchsubmit { color: #ccc; background-color: transparent; }
+#buscador input#searchsubmit:hover { cursor: pointer; color: white; }
+
+/* FORM CONTACTO */
+.wpcf7 textarea, .wpcf7 input { background-color: white; color: #774830; border: none; }
+.wpcf7 input.wpcf7-submit { background-color: #B9D786; color: #402717; }
+.wpcf7 input.wpcf7-submit:hover { cursor: pointer; color: #B9D786; background-color: #402717; }
+
+
+/* FOOTER */
+#creditos { color: #888; }
+.footer-prewrap {}
+#footer { color: #444; }
+
+#menu-footer li a { color: #774830; }
+#menu-footer li a:hover, #menu-footer li.current-menu-item a { color: #422821; background: url("../images/puntero_pie.gif") no-repeat right center transparent;}
+

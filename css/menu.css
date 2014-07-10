@@ -1,0 +1,78 @@
+/* MENU PRINCIPAL */
+.menu_principal a:hover { text-decoration: none; }
+.menu_principal { float: left; margin-top: 23px; }
+.menu_principal ul { margin: 5px 0 5px 0; height: 30px; display: block; }
+.menu_principal ul li { list-style: none; }
+.menu_principal ul li a { padding-bottom: 5px; }
+
+.menu_principal ul ul { margin-top: 9px; }
+.menu_principal ul ul li { float: left; font-size: 1em; }
+.menu_principal ul ul li a { float: left; padding: 15px 20px; }
+
+.menu_principal ul ul ul {}
+.menu_principal ul ul ul li { width: 150px; }
+.menu_principal ul ul ul li a { width: 150px; float: left; }
+
+
+/* MENU SECUNDARIO */
+.menu_secundario {}
+
+.menu-servicios-container .menu li { float: none !important; margin-bottom: 5px; }
+.menu-servicios-container .menu li a {}
+
+
+/* SUPERFISH DROPDOWN JQUERY MENU */
+.menu_principal ul.menu {
+	padding: 0; margin: 0; /* reset list style */
+}
+
+/*** ESSENTIAL STYLES ***/
+.menu, .menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu {
+	line-height: 1.0;
+}
+.menu ul {
+	position: absolute;
+	top: -999em;
+	width: 10em; /* left offset of submenus need to match (see below) */
+}
+.menu ul li {
+	width: 100%;
+}
+.menu li:hover {
+	visibility: inherit; /* fixes IE7 'sticky bug' */
+}
+.menu li { position: relative; }
+	
+.menu a {
+	display: block;
+	position: relative;
+}
+.menu li:hover ul,
+.menu li.sfHover ul {
+	left: 0;
+	top: 1.55em; /* match menu line height */
+	z-index: 99;
+}
+ul.menu li:hover li ul,
+ul.menu li.sfHover li ul {
+	top: -999em;
+}
+ul.menu li li:hover ul,
+ul.menu li li.sfHover ul {
+	left: 10em; /* match ul width */
+	top: 0;
+}
+ul.menu li li:hover li ul,
+ul.menu li li.sfHover li ul {
+	top: -999em;
+}
+ul.menu li li li:hover ul,
+ul.menu li li li.sfHover ul {
+	left: 10em; /* match ul width */
+	top: 0;
+}

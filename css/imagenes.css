@@ -1,0 +1,95 @@
+body { background: white url(../images/bg.gif) repeat-x 0 0; }
+
+/* #header { background: url(../images/bg_esquinita.png) no-repeat right bottom; } */
+
+
+#page { background: url(../images/bg_caja.gif) repeat-x 0 0; }
+
+/*.entry li { background: url(../images/bg_servicios.jpg) repeat-y 0 0; } */
+
+/* #sidebar { background: url(../images/bgproductos.jpg) no-repeat 0 0; } */
+/* .footer-prewrap  { background: white url(../images/bg.jpg) repeat-x 0 0; }  */
+.logo h1 a { background: url(../images/logo.png) no-repeat 40px 0; }
+
+/* #header .current-menu-item a, #header .current_page_item a, #header .current-menu-parent a { background: url("../images/selec.png") no-repeat 0 25px; } */
+
+/* #header .current-menu-item a, #header .current_page_item a, #header .current-menu-parent a { background: url(../images/flechita_selec.png) no-repeat 18px -19px; } */
+
+/* SLIDERS */
+.nivo-directionNav a {}
+
+/* OBRAS */
+#obras .extras a span { background: url("../images/iconopdf.png") no-repeat right center transparent; }
+
+/* MODULOS PIE */
+#letrero .acliente { background: url("../images/bgacliente.png") no-repeat 0 0; }
+#letrero .amapa { background: url("../images/bgacliente.png") no-repeat 0 0 red; }
+
+
+/* CLIENTES */
+.aclientebanner { background: white url(../images/contacto.jpg) no-repeat 0 0; }
+
+/* SIDEBAR */
+ul#frases li { background: transparent url(../images/puntero.png) no-repeat 0 5px; padding: 0 0 10px 40px; }
+
+
+
+/* PORTADA */
+
+/* #portada .dcha { background: url(../images/marcaagua.png) no-repeat 70px 190px #ccc; } */
+#portada #facebook a { background-image: none; }
+
+
+/* EXTERNAL LINKS */
+#portada a[target^="_blank"] { background: url(../images/external_link.png) no-repeat right center transparent; padding-right: 15px; }
+
+/* a[href^="http:"] {
+    display:inline-block;
+    padding-right:14px;
+    background:transparent url(../images/external_link.png) center right no-repeat;
+} */
+a[href^="mailto:"] {
+    display:inline-block;
+    padding-left: 23px;
+    line-height:18px;
+    background:transparent url(../images/mail.png) center left no-repeat;
+   
+}
+a[href^="mailto:"]:hover { text-decoration: underline;}
+
+a[href$='.pdf'] {
+    display:inline-block;
+    padding-left: 23px;
+    line-height:18px;
+    background:transparent url(../images/iconopdf.png) center left no-repeat;
+}
+a[href$='.swf'], a[href$='.fla'], a[href$='.swd'] {
+    display:inline-block;
+    padding-left: 23px;
+    line-height:18px;
+    background:transparent url(../images/FlashIcon.gif) center left no-repeat;
+}
+a[href$='.xls'], a[href$='.csv'], a[href$='.xlt'], a[href$='.xlw'] {
+    display:inline-block;
+    padding-left: 23px;
+    line-height:18px;
+    background:transparent url(../images/excel.png) center left no-repeat;
+}
+a[href$='.ppt'], a[href$='.pps'] {
+    display:inline-block;
+    padding-left:20px;
+    line-height:18px;
+    background:transparent url(../images/PowerPointIcon.gif) center left no-repeat;
+}
+a[href$='.doc'], a[href$='.rtf'], a[href$='.docx'], a[href$='.txt'], a[href$='.wps'] {
+    display:inline-block;
+    padding-left:20px;
+    line-height:18px;
+    background:transparent url(../images/word.png) center left no-repeat;
+}
+a[href$='.zip'], a[href$='.gzip'], a[href$='.rar'] {
+    display:inline-block;
+    padding-left:20px;
+    line-height:18px;
+    background:transparent url(../images/ZIPIcon.gif) center left no-repeat;
+}

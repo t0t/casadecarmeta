@@ -1,0 +1,35 @@
+/*   
+Theme Name: Cero Theme
+Theme URI: 
+Description: Thema de wordpress desde cero.
+Author: Sergio Forés
+Author URI: http://sergiofores.com/
+Template: 
+Version: 0.1
+Tags: sf
+.
+sf is © Sergio Forés http://sergiofores.com/
+.
+*/
+
+
+/* RESET */
+@import url('css/reset.css');
+
+/* MENU */
+@import url('css/menu.css');
+
+/* LAYOUT */
+@import url('css/layout.css');
+
+/* TIPOGRAFIA */
+@import url('css/tipografia.css');
+
+/* COLORES */
+@import url('css/colores.css');
+
+/* IMAGENES */
+@import url('css/imagenes.css');
+
+/* jCarousel */
+@import url('css/tango_jcarousel/skin.css');

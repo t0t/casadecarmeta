@@ -1,0 +1,26 @@
+# ignorame #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.json
+npm-debug.log
+node_modules
+.map
+.sass-cache/
+.sass-cache/*
+*.scssc
+*.log
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+
+
+#ignora bower
+assets/bower_components/
+assets/bower_components/*
+assets/css/main.min.css.map
