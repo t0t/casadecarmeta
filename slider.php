@@ -84,12 +84,12 @@
 		<h2><?php _e("<!--:es-->Tarifas<!--:--><!--:en-->Rates<!--:-->"); ?></h2>
 		<dl>
 			<dt><?php _e("<!--:es-->Personas<!--:--><!--:en-->People<!--:-->"); ?></dt>
-			<dd><?php _e("<!--:es-->De 4 a 6 personas: 40€ (noche)<!--:--><!--:en-->From 4-6 persons: 40 € (night)<!--:-->"); ?></dd>
+			<dd><?php _e("<!--:es-->De 4 a 6 personas: 30€ (noche)<!--:--><!--:en-->From 4-6 persons: 30 € (night)<!--:-->"); ?></dd>
 			<dt><?php _e("<!--:es-->Pascua y Nochevieja<!--:--><!--:en-->Easter and New Year<!--:-->"); ?></dt>
-			<dd><?php _e("<!--:es-->4 noches 2000€ <!--:--><!--:en-->4 nights € 2000 <!--:-->"); ?></dd>
+			<dd><?php _e("<!--:es-->Precio a convenir <!--:--><!--:en-->Price negotiable<!--:-->"); ?></dd>
 			<dt><?php _e("<!--:es-->Por Semanas<!--:--><!--:en-->by Weeks<!--:-->"); ?></dt>
-			<dd><?php _e("<!--:es-->Temporada baja (excepto puentes) 1.440€<!--:--><!--:en-->Low season (except bridges) € 1440<!--:-->"); ?></dd>
-			<dd><?php _e("<!--:es-->Temporada alta (Agosto): 1.680€<!--:--><!--:en-->High season (August): € 1,680<!--:-->"); ?></dd>
+			<dd><?php _e("<!--:es-->Temporada baja (excepto puentes) 500€<!--:--><!--:en-->Low season (except bridges) € 500<!--:-->"); ?></dd>
+			<dd><?php _e("<!--:es-->Temporada alta (Agosto): 800€<!--:--><!--:en-->High season (August): € 800<!--:-->"); ?></dd>
 		</dl>
 		
 		<small>
