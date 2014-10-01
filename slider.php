@@ -78,7 +78,7 @@
 		<div id="descriptivo">
 		
 		<h2><?php _e("<!--:es-->Persona de Contacto<!--:--><!--:en-->Contact Person<!--:-->"); ?></h2>
-		<p>&Agrave;ngels (+34) M.680727882 <a href="mailto:javiercastell60@gmail.com">E-mail</a><br />
+		<p>&Agrave;ngels (+34) M.680727882 <a href="mailto:info@casadecarmeta.com">info{A}casadecarmeta.com</a><br />
 		<?php _e("<!--:es-->C/ Fredes (Plaza Vieja) s/n<!--:--><!--:en-->C/ Fredes (Plaza Vieja) s/n<!--:-->"); ?><br />
 		<?php _e("<!--:es-->Xert (Castell&oacute;)<!--:--><!--:en-->Xert (Castell&oacute;)<!--:-->"); ?></p>
 		<h2><?php _e("<!--:es-->Tarifas<!--:--><!--:en-->Rates<!--:-->"); ?></h2>
